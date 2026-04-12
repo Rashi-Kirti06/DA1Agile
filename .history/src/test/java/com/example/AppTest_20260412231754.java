@@ -7,7 +7,7 @@ import org.junit.Test;
 
 public class AppTest {
 
-    App app = new App();
+    // App app = new App();
 
     @Test
     public void testAdd() {

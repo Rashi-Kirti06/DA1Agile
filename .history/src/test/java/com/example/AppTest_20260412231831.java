@@ -1,4 +1,4 @@
-package com.example;
+package test.java.com.example
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;

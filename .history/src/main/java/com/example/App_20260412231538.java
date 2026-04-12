@@ -29,16 +29,4 @@ public class App {
         }
         return true;
     }
-
-    // ✅ MAIN METHOD (RUN THIS)
-    public static void main(String[] args) {
-
-        App obj = new App();
-
-        System.out.println("Addition: " + obj.add(2, 3));
-        System.out.println("Multiplication: " + obj.multiply(2, 3));
-        System.out.println("Is Even (4): " + obj.isEven(4));
-        System.out.println("Factorial (5): " + obj.factorial(5));
-        System.out.println("Is Prime (7): " + obj.isPrime(7));
-    }
 }
